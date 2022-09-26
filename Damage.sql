@@ -30,5 +30,4 @@ and t.id>=26427265 ------ MinimumThingId
 and t.id<=154103591 ------ MaximumThingId
 
 
-group by 
-		 w.Name
+group by w.Name
